@@ -61,7 +61,7 @@ class Bank {
             }
         } while (choice != 4);
             
-        
+        input.close();
     }
 }
 
