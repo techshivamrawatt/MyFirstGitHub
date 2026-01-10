@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Bank {
+public class Bank {
 
     int accountNumber;
     String accountHolder;
